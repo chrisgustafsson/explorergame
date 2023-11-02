@@ -8,3 +8,4 @@ print("╚══════╝╚═╝  ╚═╝╚═╝     ╚════
 print('_.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"~._.')
 
 name = input("Please enter your name here: ")
+print(f'Welcome explorer {name}!')
