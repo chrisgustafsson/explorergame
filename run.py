@@ -34,4 +34,4 @@ elif world == "roman empire":
     print("One way takes you to the Colosseum and one way to an Aqueduct.")
     landingRoman = input("Go to 'Colosseum' or 'Aqueduct'?\n")
 else:
-    print("Invalid response, try answering 'Colosseum' or 'Aqueduct'")
+    print("Invalid response, try answering 'vikings' or 'roman empire'")
