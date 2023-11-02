@@ -20,3 +20,5 @@ elif startGame == "no":
     quit()
 else:
     print("Invalid response, try answering 'yes' or 'no'")
+
+print('_.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"')
