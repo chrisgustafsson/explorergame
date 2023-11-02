@@ -28,3 +28,8 @@ if world == "vikings":
     print("It's green and lucious during a beautiful spring day.")
     print("In one direction you see a boat but the other direction is a farm.")
     landingVikings = input("Take the 'boat' or go to the 'farm'?\n")
+elif world == "roman empire":
+    print("You see yourself transported to Ancient Rome.")
+    print("Old structures are all around you. It's majestic!")
+    print("One way takes you to the Colosseum and one way to an Aqueduct.")
+    landingRoman = input("Go to 'Colosseum' or 'Aqueduct'?\n")
